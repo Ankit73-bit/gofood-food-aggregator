@@ -39,10 +39,10 @@ Install dependencies
 Start the server
 
 ```Terminal (frontend)
-  npm run start
+  npm run start (frontend)
 ```
 
 ```Terminal (backend)
-  npm run start
+  npm run start (backend)
 ```
 
