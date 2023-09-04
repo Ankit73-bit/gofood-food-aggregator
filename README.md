@@ -1,10 +1,11 @@
 
 # GoFood
-A complete Ecommerce App built with MERN stack.
+Order your food online with GoFood.
+A complete GoFood App built with MERN stack. 
 
 # Features :
 * Sign Up, Login, Logout.
-* View all products, Add to cart, checkout.
+* View all products, Add to cart, and checkout.
 * Search products.
 
 # Used technologies
