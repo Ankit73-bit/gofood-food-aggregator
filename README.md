@@ -1,5 +1,5 @@
 
-# E-commerce App
+# GoFood
 A complete Ecommerce App built with MERN stack.
 
 # Features :
